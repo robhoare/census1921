@@ -11,8 +11,9 @@ So this index will only list around half the streets in the five
 Toronto electoral districts.
 
 In addition, some Toronto City streets are within neighbouring
-districts such as York.  These have not yet been added, but can done
-next.
+districts such as York, which have now been added.
+
+
 
 Unfortunately, the way the districts are described is different
 for areas outside Toronto, so they cannot be added to this index.
@@ -25,8 +26,12 @@ district.  Each file is sorted by street name, then shows the
 subdistrict (and ward and polling district).  Example:
 https://github.com/robhoare/census1921/blob/master/index/toronto-centre.txt
 
-When the outlying areas of the city (in York etc) have been
-added a consolidated index can be produced.
+A consolidated list of all the named streets in the Toronto ridings,
+and Toronto City named streets in York ridings, is:
+    index/combined-toronto-city.txt
+    
+In that file, the subdistrict is show after the street name, followed
+by the electoral district.
 
 Just to repeat: this is a partial index.  Around half of all
 streets will be missing.

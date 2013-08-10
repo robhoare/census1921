@@ -19,6 +19,11 @@ Now sort the results by street:
     sort \<toronto-east.4 \>toronto-east.5
     
 Results are copied into /index and renamed .txt
+
+1921-2.php was added to handle the Toronto City streets in York.
+
+1921-all.php glues them together, then sorted to produce the 
+combined list.
     
 
 
