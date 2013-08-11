@@ -20,10 +20,10 @@ Now sort the results by street:
     
 Results are copied into /index and renamed .txt
 
-1921-2.php was added to handle the Toronto City streets in York.
+1921-3.php was added to handle the Toronto City streets in York.
 
 1921-all.php glues them together, then sorted to produce the 
-combined list.
+combined list, and a descriptive header added.
     
 
 

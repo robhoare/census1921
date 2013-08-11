@@ -1,4 +1,5 @@
 <?php
+// add subdistrict name to the street segments following it
 $lines = file("php://stdin");
 foreach ($lines as $line) {
 	$line = rtrim($line);
