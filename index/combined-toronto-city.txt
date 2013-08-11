@@ -1,3 +1,9 @@
+# Partial Canada 1921 census street index from https://github.com/robhoare/census1921
+# on each line: street segment description : sub district number : district
+# use the "browse this collection" link on http://search.ancestry.ca/search/db.aspx?dbid=8991
+# select Ontario, then the district, then the subdistrict, scroll through 5-20 pages to find street
+# License: Open Data Commons Open Database License (ODbL)
+
 Abbott avenue, both sides, from Western avenue to easterly limit of Ward 7: Sub-District 60 - Toronto (City, part)  Ward 7,  : York West
 Aberdeen avenue, both sides: Sub-District 59 - Ward 2   : Toronto East
 Albert Street, north side, from Teraulay to Chestnut Street,: Sub-District 25 - Ward 3   : Toronto Centre
