@@ -19,18 +19,18 @@ Boothroyd avenue, both sides: Sub-District 54 - Toronto (City, part)  Wards 1 an
 Boultbee avenue, both sides, from Jones avenue to east end: Sub-District 54 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 138,
 Brooklyn avenue, both sides: Sub-District 16 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 42 -
 Cedar avenue, both sides: Sub-District 52 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 135 -
-Coady avenue, west side, Queen Street, north side: Sub-District 16 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 42 -
+Coady avenue, west side,: Sub-District 16 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 42 -
 Condor avenue, both sides, from Boultbee to Shudell avenue: Sub-District 54 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 138,
+Condor avenue, both sides, from Dawson avenue to north end: Sub-District 55 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 140 -
 Condor avenue, both sides, from Shudell to Dawson avenue: Sub-District 55 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 140 -
 Coxwell avenue, east side. from Queen Street to G.T.R. tracks: Sub-District 27 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 104 -
 Coxwell avenue, west side, from Gerrard Street to G.T.R. tracks: Sub-District 23 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 96 -
 Coxwell avenue, west side, from Queen to Gerrard Street: Sub-District 26 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 102 -
 Dawson avenue, both sides: Sub-District 55 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 140 -
 Doel avenue, both sides, from Leslie Street to Hastings avenue: Sub-District 47 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 84 -
-Dunedin avenue, both sides, Condor avenue, both sides, from Dawson avenue to north end: Sub-District 55 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 140 -
+Dunedin avenue, both sides,: Sub-District 55 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 140 -
 Elmer avenue, both sides, from Queen Street to Norway avenue: Sub-District 33 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 123 -
 Erie terrace, from Gerrard Street to G.T.R. tracks: Sub-District 23 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 96 -
-from Bertmount to Coady avenue: Sub-District 16 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 42 -
 Gerrard Street, north side, from Ashdale avenue to Erie terrace: Sub-District 23 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 96 -
 Gerrard Street, north side, from Erie terrace to Coxwell avenue: Sub-District 23 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 96 -
 Gerrard Street, north side, from Prust to Greenwood avenue: Sub-District 42 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 90 -
@@ -61,9 +61,11 @@ Norway avenue, both sides: Sub-District 33 - Toronto (City, part)  Wards 1 and 8
 Orchard Park boulevard, both side: Sub-District 27 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 104 -
 Orchard Park road, both sides: Sub-District 27 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 104 -
 Osborne avenue, both sides, from Lyall to Swanwick avenue: Sub-District 37 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 115 -
+Pine avenue, both sides, from Balsam to Beech avenue: Sub-District 30 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 133 -
 Pine avenue, both sides, from Beech to Silver Birch avenue: Sub-District 52 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 135 -
 Pine terrace: Sub-District 51 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 134 -
 Queen Street, north side, from Beech to Silver Birch avenue: Sub-District 51 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 134 -
+Queen Street, north side from Bertmount to Coady avenue: Sub-District 16 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 42 -
 Queen Street, north side from Brooklyn to Bertmount avenue: Sub-District 16 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 42 -
 Queen Street, north side, from Coxwell avenue to Kingston road: Sub-District 27 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 104 -
 Queen Street, north side, from Elmer to Kenilworth avenue: Sub-District 33 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 123 -
@@ -85,7 +87,7 @@ Sproat avenue, both sides, from Leslie Street to Hastings avenue: Sub-District 4
 Spruce Hill road, both sides, from Queen Street to Sycamore place: Sub-District 29 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 132 -
 Spruce Hill road, both sides, from Sycamore to Pine avenue: Sub-District 30 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 133 -
 Swanwick avenue, south side, from Main to Pickering Street: Sub-District 37 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 115 -
-Sycamore avenue, both sides Pine avenue, both sides, from Balsam to Beech avenue: Sub-District 30 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 133 -
+Sycamore avenue, both sides: Sub-District 30 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 133 -
 Waverley road, both sides, from Queen Street to north end: Sub-District 34 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 125 -
 Wayland avenue, both sides, from Lyall to Swanwick avenue: Sub-District 37 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 115 -
 Willow avenue, east side, from Pine to Balsam avenue: Sub-District 52 - Toronto (City, part)  Wards 1 and 8, Polling Division No. 135 -

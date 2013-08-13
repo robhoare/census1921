@@ -19,6 +19,7 @@ Annette street, both sides, from Indian Grove to Keele street: Sub-District 43 -
 Annette street, both sides, from Mavety to Medland street: Sub-District 45 - Toronto (City, part)  Ward 7,  : York West
 Annette street, both sides from Medland street to Pacific avenue: Sub-District 46 - Toronto (City, part)  Ward 7,  : York West
 Annette street, both sides, from Pacific to Quebec avenue: Sub-District 47 - Toronto (City, part)  Ward 7,  : York West
+Annette street, both sides, from Western avenue to east end: Sub-District 41 - Toronto (City, part)  Ward 7,  : York West
 Annette street, both sides, from Western avenue to Indian Grove: Sub-District 42 - Toronto (City, part)  Ward 7,  : York West
 Annette street, north side, from Clendenan to Evelyn avenue: Sub-District 49 - Toronto (City, part)  Ward 7,  : York West
 Annette street, north side, from Evelyn to Fairview avenue: Sub-District 50 - Toronto (City, part)  Ward 7,  : York West
@@ -154,7 +155,7 @@ Boultbee avenue, both sides, from Jones avenue to east end: Sub-District 54 - To
 Bowden Street, both sides, from Hogarth to Woolfrey Avenue: Sub-District 25 - Ward 1   : Toronto East
 Bowman street, both sides: Sub-District 61 - Ward 2   : Toronto East
 Bracondale avenue, east side, from Helena to Ellsworth avenue: Sub-District 61 - Ward 5   : Toronto North
-Bradd street, both sides, Annette street, both sides, from Western avenue to east end: Sub-District 41 - Toronto (City, part)  Ward 7,  : York West
+Bradd street, both sides,: Sub-District 41 - Toronto (City, part)  Ward 7,  : York West
 Breadalbane Street, both sides: Sub-District 38 - Ward 3   : Toronto Centre
 Briggs Avenue, both sides: Sub-District 47 - Ward 2   : Toronto East
 Britannia avenue, both sides: Sub-District 37 - Toronto (City, part)  Ward 7,  : York West
@@ -264,7 +265,7 @@ Clinton Street, west side, from Harbord to Bloor Street.: Sub-District 65 - Ward
 Close avenue, both sides, from King Street to south end: Sub-District 31 - Ward 6   : Toronto South
 Close avenue, both sides, from King to Queen Street: Sub-District 37 - Ward 6   : Toronto South
 Clyde street, both sides: Sub-District 66 - Ward 2   : Toronto East
-Coady avenue, west side, Queen Street, north side: Sub-District 16 - Toronto (City, part)  Wards 1 and 8,  : York East
+Coady avenue, west side,: Sub-District 16 - Toronto (City, part)  Wards 1 and 8,  : York East
 Colbeck street, both sides, from Runnymede road to Beresford avenue: Sub-District 70 - Toronto (City, part)  Ward 7,  : York West
 College Street, north Bide, from Roxton road to Ossington avenue: Sub-District 70 - Ward 5   : Toronto West
 College Street, north side, from Beatrice Street to Montrose avenue: Sub-District 61 - Ward 5   : Toronto West
@@ -306,6 +307,7 @@ Concord avenue, both sides, from Hepbourne to Bloor Street: Sub-District 76 - Wa
 Concord avenue, east side, from Bloor to Hallam street: Sub-District 56 - Ward 5   : Toronto North
 Concord avenue, west side, from Bloor street to Hallam street: Sub-District 57 - Ward 5   : Toronto North
 Condor avenue, both sides, from Boultbee to Shudell avenue: Sub-District 54 - Toronto (City, part)  Wards 1 and 8,  : York East
+Condor avenue, both sides, from Dawson avenue to north end: Sub-District 55 - Toronto (City, part)  Wards 1 and 8,  : York East
 Condor avenue, both sides, from Shudell to Dawson avenue: Sub-District 55 - Toronto (City, part)  Wards 1 and 8,  : York East
 Cottingham st., north side, from Yonge street to Avenue road: Sub-District 19 - Ward 3   : Toronto North
 Cowan avenue, both sides, from King Street to south end: Sub-District 29 - Ward 6   : Toronto South
@@ -418,6 +420,7 @@ Dundas Street, south side, from Bellwoods to Gore Vale avenue: Sub-District 29 -
 Dundas Street, south side, from Beverley Street to Spadina Avenue: Sub-District 61 - Ward 4   : Toronto Centre
 Dundas Street, south side, from Chestnut Street to University Avenue,: Sub-District 23 and 24 - Ward 3   : Toronto Centre
 Dundas Street, south side, from Claremont Street to Bellwoods avenue: Sub-District 29 - Ward 5   : Toronto West
+Dundas street, south side, from Clendenan to Gilmour avenue: Sub-District 49 - Toronto (City, part)  Ward 7,  : York West
 Dundas Street, south side, from Euclid to Manning avenue: Sub-District 27 - Ward 5   : Toronto West
 Dundas street, south side, from Gilmour avenue to Runnymede road: Sub-District 52 - Toronto (City, part)  Ward 7,  : York West
 Dundas Street, south side, from Gore Vale avenue to Shaw Street: Sub-District 30 - Ward 5   : Toronto West
@@ -448,7 +451,7 @@ Dundas Street: Sub-District 01 - Ward 2   : Toronto Centre
 Dundas Street: Sub-District 25 - Ward 5   : Toronto West
 Dundee Avenue, both sides: Sub-District 46 - Ward 2   : Toronto East
 Dundonald Street, both sides: Sub-District 43 - Ward 3   : Toronto Centre
-Dunedin avenue, both sides, Condor avenue, both sides, from Dawson avenue to north end: Sub-District 55 - Toronto (City, part)  Wards 1 and 8,  : York East
+Dunedin avenue, both sides,: Sub-District 55 - Toronto (City, part)  Wards 1 and 8,  : York East
 Dunn avenue, east side, from King Street to south end: Sub-District 30 - Ward 6   : Toronto South
 Dunn avenue, east side, from King to Queen Street: Sub-District 36 - Ward 6   : Toronto South
 Dunn avenue, west side, from King Street to south end: Sub-District 31 - Ward 6   : Toronto South
@@ -461,7 +464,7 @@ Eastern Avenue, both sides, from G. T. R. tracks to McGee Street: Sub-District 0
 Eastern Avenue, both sides, from Logan Avenue to Morse Street: Sub-District 05 - Ward 1   : Toronto East
 Eastern Avenue, both sides, from McGee Street to Booth Avenue: Sub-District 03 - Ward 1   : Toronto East
 Edgedale road, both sides: Sub-District 69 - Ward 2   : Toronto East
-Edna avenue, both sides: Sub-District 55 - Toronto (City, part)  Ward 7,  : York West
+Edna avenue, both sides from Indian road to Indian Grove: Sub-District 55 - Toronto (City, part)  Ward 7,  : York West
 EdWard Street, both sides, from Chestnut Street to University Avenue: Sub-District 28 - Ward 3   : Toronto Centre
 EdWard Street, both sides, from Teraulay Street to Chestnut Street: Sub-District 29 - Ward 3   : Toronto Centre
 Elizabeth Street, both sides, from Albert to Dundas Street: Sub-District 25 - Ward 3   : Toronto Centre
@@ -484,7 +487,6 @@ Empire Avenue, both sides, Graham place: Sub-District 03 - Ward 1   : Toronto Ea
 Empress crescent, both side from Dunn to Jameson avenue: Sub-District 32 - Ward 6   : Toronto South
 Empress crescent, both sides from Jameson avenue to west end: Sub-District 33 - Ward 6   : Toronto South
 Empress crescent, both sides, from Spencer to Dunn avenue: Sub-District 30 - Ward 6   : Toronto South
-end  : Toronto West
 Erie terrace, from Gerrard Street to G.T.R. tracks: Sub-District 23 - Toronto (City, part)  Wards 1 and 8,  : York East
 Essex street, both sides, from Christie to Shaw street: Sub-District 51 - Ward 5   : Toronto North
 Euclid avenue, east side, from Dundas to College Street,: Sub-District 38 - Ward 5   : Toronto West
@@ -498,8 +500,6 @@ Fairview avenue, both sides, from Woodside avenue to Annette street: Sub-Distric
 Farnham avenue, south side: Sub-District 20 - Ward 3   : Toronto North
 Fisken avenue, both sides: Sub-District 52 - Toronto (City, part)  Ward 7,  : York West
 Forester place, both sides: Sub-District 25 - Ward 3   : Toronto Centre
-from Bertmount to Coady avenue: Sub-District 16 - Toronto (City, part)  Wards 1 and 8,  : York East
-from Indian road to Indian Grove: Sub-District 55 - Toronto (City, part)  Ward 7,  : York West
 Garnet avenue, both sides: Sub-District 51 - Ward 5   : Toronto North
 George Street, both sides, from Dundas to Gerrard Street: Sub-District 04 - Ward 2   : Toronto Centre
 George Street east side, from Queen to Shuter Street: Sub-District 02 - Ward 2   : Toronto Centre
@@ -827,7 +827,7 @@ McGill Street, both sides, from Church Street to east end: Sub-District 20 - War
 McGill Street, both sides, from Yonge to Church Street: Sub-District 18 - Ward 3   : Toronto Centre
 McGregor avenue, south side: Sub-District 70 - Toronto (City, part)  Ward 7,  : York West
 McLean avenue, east aide from Queen Street to north end: Sub-District 29 - Toronto (City, part)  Wards 1 and 8,  : York East
-McMurray avenue, both sides, Quebec avenue, east side, from Dundas street to north end: Sub-District 39 - Toronto (City, part)  Ward 7,  : York West
+McMurray avenue, both sides,: Sub-District 39 - Toronto (City, part)  Ward 7,  : York West
 McPherson avenue, south side, from Yonge street to Avenue road: Sub-District 17 - Ward 3   : Toronto North
 Medland crescent, both sides: Sub-District 63 - Toronto (City, part)  Ward 7,  : York West
 Medland street, both sides: Sub-District 45 - Toronto (City, part)  Ward 7,  : York West
@@ -934,6 +934,7 @@ Phipps Street, both sides: Sub-District 49 - Ward 3   : Toronto Centre
 Phoebe Street, north side: Sub-District 58 - Ward 4   : Toronto Centre
 Phoebe Street, south side from Beverley Street to Soho Street: Sub-District 56 - Ward 4   : Toronto Centre
 Phoebe Street, south side, from Soho Street to Spadina Avenue: Sub-District 59 - Ward 4   : Toronto Centre
+Pine avenue, both sides, from Balsam to Beech avenue: Sub-District 30 - Toronto (City, part)  Wards 1 and 8,  : York East
 Pine avenue, both sides, from Beech to Silver Birch avenue: Sub-District 52 - Toronto (City, part)  Wards 1 and 8,  : York East
 Pine Crest road, east side, from Glenlake to Quebec avenue: Sub-District 65 - Toronto (City, part)  Ward 7,  : York West
 Pine Crest road, south side, from Clendenan to Glenlake avenue: Sub-District 59 - Toronto (City, part)  Ward 7,  : York West
@@ -950,6 +951,7 @@ Prospect street, both sides: Sub-District 62 - Ward 2   : Toronto East
 Pullan place, both side from St. Patrick Street to west end: Sub-District 55 - Ward 4   : Toronto Centre
 Pullan place, both sides, from Simcoe to St. Patrick Street: Sub-District 53 - Ward 4   : Toronto Centre
 Quebec avenue, east side, from Bloor street to Glenlake avenue: Sub-District 58 - Toronto (City, part)  Ward 7,  : York West
+Quebec avenue, east side, from Dundas street to north end: Sub-District 39 - Toronto (City, part)  Ward 7,  : York West
 Quebec avenue, east side, from Glenlake to Humberside avenue: Sub-District 65 - Toronto (City, part)  Ward 7,  : York West
 Quebec avenue, east side, from Humberside avenue to Dundas street: Sub-District 47 - Toronto (City, part)  Ward 7,  : York West
 Quebec avenue west side, from Annette to Dundas street: Sub-District 48 - Toronto (City, part)  Ward 7,  : York West
@@ -962,6 +964,7 @@ Queen Street, north side, from Augusta to Ryerson avenue: Sub-District 03 - Ward
 Queen Street, north side, from Bathurst Street to Palmerston avenue: Sub-District 23 - Ward 5   : Toronto West
 Queen Street, north side, from Beech to Silver Birch avenue: Sub-District 51 - Toronto (City, part)  Wards 1 and 8,  : York East
 Queen Street, north side from Bellwoods to Gore Vale avenue: Sub-District 29 - Ward 5   : Toronto West
+Queen Street, north side from Bertmount to Coady avenue: Sub-District 16 - Toronto (City, part)  Wards 1 and 8,  : York East
 Queen Street, north side, from Booth to Logan Avenue,: Sub-District 16 - Ward 1   : Toronto East
 Queen Street, north side from Boston to Pape Avenue: Sub-District 18 - Ward 1   : Toronto East
 Queen Street, north side from Broadview Avenue to Grant Street: Sub-District 10 - Ward 1   : Toronto East
@@ -1163,7 +1166,7 @@ St. George Street, west side, from Willcocks to Harbord Street: Sub-District 75 
 St. James avenue, both sides, from Ontario street to Rose Avenue: Sub-District 66 - Ward 2   : Toronto East
 St. James avenue, both sides, from Rose avenue to Parliament street: Sub-District 67 - Ward 2   : Toronto East
 St. John's road, both sides, from Gilmour avenue to Runnymede road: Sub-District 52 - Toronto (City, part)  Ward 7,  : York West
-St. John's road, north side, from Dundas street to Gilmour avenue, Dundas street, south side, from Clendenan to Gilmour avenue: Sub-District 49 - Toronto (City, part)  Ward 7,  : York West
+St. John's road, north side, from Dundas street to Gilmour avenue,: Sub-District 49 - Toronto (City, part)  Ward 7,  : York West
 St. John's road, south side, from Clendenan to Evelyn avenue: Sub-District 49 - Toronto (City, part)  Ward 7,  : York West
 St. John's road, south side, from Evelyn to Fairview avenue: Sub-District 50 - Toronto (City, part)  Ward 7,  : York West
 St. John's road, south side, from Fairview to Gilmour avenue: Sub-District 51 - Toronto (City, part)  Ward 7,  : York West
@@ -1215,7 +1218,7 @@ Sutton Avenue, both sides, from Regent Street to Arnold Avenue: Sub-District 37 
 Sutton Avenue, both sides, from Regent to Sackville Stree: Sub-District 38 - Ward 2   : Toronto East
 Swanwick avenue, south side, from Main to Pickering Street: Sub-District 37 - Toronto (City, part)  Wards 1 and 8,  : York East
 Sword street, both sides: Sub-District 56 - Ward 2   : Toronto East
-Sycamore avenue, both sides Pine avenue, both sides, from Balsam to Beech avenue: Sub-District 30 - Toronto (City, part)  Wards 1 and 8,  : York East
+Sycamore avenue, both sides: Sub-District 30 - Toronto (City, part)  Wards 1 and 8,  : York East
 Sydenham place: Sub-District 39 - Ward 2   : Toronto East
 Sydenham Street, both side, from Parliament to Regent Street: Sub-District 37 - Ward 2   : Toronto East
 Sydenham Street, both sides, from Sackville to Sumach Street: Sub-District 39 - Ward 2   : Toronto East

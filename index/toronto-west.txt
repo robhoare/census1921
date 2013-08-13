@@ -113,7 +113,6 @@ Dundas Street, south side, from Markham Street to Palmerston avenue: Sub-Distric
 Dundas Street, south side, from Palmerston to Euclid avenue: Sub-District 27 - Ward 5  Polling Subdivision no. 16 (part) -
 Dundas Street, south side, from Shaw Street to Ossington avenue: Sub-District 33 - Ward 5  Polling Subdivision no. 24 -
 Dundas Street: Sub-District 25 - Ward 5  Polling Subdivision no. 13 (part) -
-end Polling Subdivision no. 16 (part) -: Sub-District 26 - Ward 5  Polling Subdivision no. 15 -
 Euclid avenue, east side, from Dundas to College Street,: Sub-District 38 - Ward 5  Polling Subdivision no. 33 -
 Euclid avenue, west side, from Robinson to Dundas Street: Sub-District 27 - Ward 5  Polling Subdivision no. 16 (part) -
 Euclid avenue, west side, from Robinson to Dundas Street: Sub-District 27 - Ward 5  Polling Subdivision no. 16 (part) -

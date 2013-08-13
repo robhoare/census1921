@@ -1,0 +1,6 @@
+# Partial Canada 1921 census street index from https://github.com/robhoare/census1921
+# on each line: street segment description : sub district number : district
+# use the "browse this collection" link on http://search.ancestry.ca/search/db.aspx?dbid=8991
+# select Ontario, then the district, then the subdistrict, scroll through 5-20 pages to find street
+# License: Open Data Commons Open Database License (ODbL)
+
