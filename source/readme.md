@@ -24,6 +24,11 @@ Results are copied into /index and renamed .txt
 
 1921-all.php glues them together, then sorted to produce the 
 combined list, and a descriptive header added.
+
+York south/east/west were a slightly different format, used 1921-3.php
+
+Parkdale didn't have any semicolons separating the streets, so about
+500 of them had to be added by hand, then it ran the same as Toronto. 
     
 
 

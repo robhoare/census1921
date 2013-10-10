@@ -1,0 +1,520 @@
+Abbs Street, both sides: Sub-District 002 - Toronto (City)  Polling Subdivision no. 21 -
+Addison avenue, both sides: Sub-District 127 - Toronto (City)  Polling Subdivision no. 154.
+Afton Avenue, both sides, from Beaconsfield Avenue to west end: Sub-District 051 - Toronto (City)  Polling Subdivision no. 71 -
+Afton Avenue, north side, from Lisgar Street to Beaconsfield Avenue: Sub-District 050 - Toronto (City)  Polling Subdivision no. 70 -
+Afton Avenue, north side, from Lisgar Street to east end: Sub-District 049 - Toronto (City)  Polling Subdivision no. 69 -
+Afton Avenue, south side, from Lisgar Street to Beaconsfiled Avenue: Sub-District 049 - Toronto (City)  Polling Subdivision no. 69 -
+Algonquin Avenue, both sides: Sub-District 029 - Toronto (City)  Polling Subdivision no. 49 -
+Alhambra Avenue, both sides: Sub-District 042 - Toronto (City)  Polling Subdivision no. 62 -
+Alma Avenue, north sid: Sub-District 053 - Toronto (City)  Polling Subdivision no. 73 -
+Alma Avenue, south side: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Alpine avenue, both sides, from Edwin avenue to C. T. R. tracks: Sub-District 126 - Toronto (City)  Polling Subdivision no. 153.
+Antler street, both sides, from Campbell avenue to east end: Sub-District 120 - Toronto (City)  Polling Subdivision no. 147.
+Antler street, both sides, from Campbell to Symington avenue: Sub-District 121 - Toronto (City)  Polling Subdivision no. 148.
+Antler street, both sides, from Perth avenue to west end: Sub-District 125 - Toronto (City)  Polling Subdivision no. 152.
+Antler street, both sides, from Symington avenue to Perth avenue: Sub-District 123 - Toronto (City)  Polling Subdivision no. 150.
+Archer street, both sides: Sub-District 076 - Toronto (City)  Polling Subdivision no. 96.
+Argyle Street, north side, from Beaconsfield to Gladstone Avenue: Sub-District 051 - Toronto (City)  Polling Subdivision no. 71 -
+Argyle Street, north side, from Dovercourt Road to Lisgar Street: Sub-District 048 - Toronto (City)  Polling Subdivision no. 68 -
+Argyle Street, north side, from Lisgar Street to Beaconsfield Avenue: Sub-District 049 - Toronto (City)  Polling Subdivision no. 69 -
+Argyle Street, south side, from Dovercourt Road to Lisgar Street: Sub-District 045 - Toronto (City)  Polling Subdivision no. 65 -
+Argyle Street, south side, from Lisgar Street to Northcote Avenue: Sub-District 046 - Toronto (City)  Polling Subdivision no. 66 -
+Argyle Street, south side, from Northcote Avenue to west end: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Armstrong avenue, both sides: Sub-District 105 - Toronto (City)  Polling Subdivision no. 127.
+Atkin Avenue, both sides: Sub-District 072 - Toronto (City)  Polling Subdivision no. 92 -
+Awde street, both sides: Sub-District 077 - Toronto (City)  Polling Subdivision no. 97.
+Bank Street, north side: Sub-District 056 - Toronto (City)  Polling Subdivision no. 76 -
+Bank Street, south side: Sub-District 055 - Toronto (City)  Polling Subdivision no. 75 -
+Bartlett avenue, both sides, from Bloor to Shanly street: Sub-District 091 - Toronto (City)  Polling Subdivision no. 112.
+Bartlett avenue, both sides, from Hallam street to C.P.R. tracks: Sub-District 100 - Toronto (City)  Polling Subdivision no. 122.
+Bartlett avenue, east side, from Shanly to Hallam street: Sub-District 095 - Toronto (City)  Polling Subdivision no. 116.
+Bartlett avenue, west side, from Shanly to Hallam street: Sub-District 096 - Toronto (City)  Polling Subdivision no. 117.
+Beaconsfield Avenue, both sides, from Afton Avenue to Dundas Street: Sub-District 050 - Toronto (City)  Polling Subdivision no. 70 -
+Beaconsfield Avenue, both sides, from Argyle Street to Afton Avenue: Sub-District 051 - Toronto (City)  Polling Subdivision no. 71 -
+Beaconsfield Avenue, both sides, from Queen to Argyle Street: Sub-District 046 - Toronto (City)  Polling Subdivision no. 66 -
+Bloor st. north sides, from Emerson to St. Clarens avenue: Sub-District 111 - Toronto (City)  Polling Subdivision no. 136.
+Bloor street, north side, from Bartlett to Gladstone avenue: Sub-District 091 - Toronto (City)  Polling Subdivision no. 112.
+Bloor street, north side, from Borck avenue to Margueretta street: Sub-District 109 - Toronto (City)  Polling Subdivision no. 133.
+Bloor street, north side, from C. T. R. Northen division tracks to Symington avenue: Sub-District 117 - Toronto (City)  Polling Subdivision no. 144.
+Bloor street, north side, from Dovercourt road to Westmoreland avenue: Sub-District 089 - Toronto (City)  Polling Subdivision no. 110.
+Bloor street, north side, from Dufferin street to Pauline avenue: Sub-District 102 - Toronto (City)  Polling Subdivision no. 124.
+Bloor street, north side, from Gladstone avenue to Dufferin street: Sub-District 092 - Toronto (City)  Polling Subdivision no. 113.
+Bloor street, north side, from Margueretta street to Emerson avenue: Sub-District 109 - Toronto (City)  Polling Subdivision no. 134.
+Bloor street, north side, from Pauline to Brock ave: Sub-District 103 - Toronto (City)  Polling Subdivision no. 125.
+Bloor street, north side, from Symington Avenue to C. P. R. tracks: Sub-District 119 - Toronto (City)  Polling Subdivision no. 146.
+Bloor street, north side, from Westmoreland to Bartlett avenue: Sub-District 090 - Toronto (City)  Polling Subdivision no. 111.
+Bloor Street, south side, from Alhambra Avenue to Indian Road: Sub-District 043 - Toronto (City)  Polling Subdivision no. 63 -
+Bloor street, south side, from Brock avenue to Margueretta street: Sub-District 079 - Toronto (City)  Polling Subdivision no. 99.
+Bloor Street, south side, from Dovercourt Road to Havelock Street: Sub-District 067 - Toronto (City)  Polling Subdivision no. 87 -
+Bloor street, south side, from Dufferin street to Brock avenue: Sub-District 077 - Toronto (City)  Polling Subdivision no. 97.
+Bloor Street, south side, from Dundas Street to Alhambra Avenue: Sub-District 042 - Toronto (City)  Polling Subdivision no. 62 -
+Bloor Street, south side, from Gladstone Avenue to Dufferin Street: Sub-District 070 - Toronto (City)  Polling Subdivision no. 90 -
+Bloor Street, south side, from Havelock Street to Gladstone Avenue: Sub-District 069 - Toronto (City)  Polling Subdivision no. 89 -
+Bloor Street, south side, from Indian Road to Keele Street: Sub-District 044 - Toronto (City)  Polling Subdivision no. 64 -
+Bloor street, south side, from Lansdowne to St. Helen's avenue: Sub-District 084 - Toronto (City)  Polling Subdivision no. 104,
+Bloor street, south side, from Margueretta street to St. Clarens avenue: Sub-District 080 - Toronto (City)  Polling Subdivision no. 100.
+Bloor street, south side, from St. Clarens to Lansdowne avenue: Sub-District 082 - Toronto (City)  Polling Subdivision no. 102.
+Bloor street, south side, from Sterling road to C.P.R. tracks: Sub-District 086 - Toronto (City)  Polling Subdivision no. 107.
+Bloor street, south side, from the C.P.R. tracks to Dundas street: Sub-District 088 - Toronto (City)  Polling Subdivision no. 109.
+Bloor st., south side, from St. Helen's avenue to Sterling road: Sub-District 085 - Toronto (City)  Polling Subdivision No. 106.
+Boustead Avenue, both sides: Sub-District 041 - Toronto (City)  Polling Subdivision no. 61 -
+Brampton place: Sub-District 076 - Toronto (City)  Polling Subdivision no. 96.
+Brock avenue, both sides, from Bloor street to north end: Sub-District 108 - Toronto (City)  Polling Subdivision no. 132.
+Brock avenue, east side, from Awde to Bloor street: Sub-District 077 - Toronto (City)  Polling Subdivision no. 97.
+Brock avenue, east side, from College street to Lindsay avenue: Sub-District 074 - Toronto (City)  Polling Subdivision no. 94.
+Brock Avenue, east side, from Dundas to College Street: Sub-District 072 - Toronto (City)  Polling Subdivision no. 92 -
+Brock avenue, east side, from Lindsay to Muir avenue: Sub-District 075 - Toronto (City)  Polling Subdivision no. 95.
+Brock avenue, east side from Muir avenue to Awde street: Sub-District 076 - Toronto (City)  Polling Subdivision no. 96.
+Brock Avenue east side, from Queen Street to the railway tracks: Sub-District 001 - Toronto (City)  Polling Subdivision no. 20 -
+Brock Avenue, east side from the railway tracks to Dundas Street: Sub-District 057 - Toronto (City)  Polling Subdivision no. 77 -
+Brock avenue, west side from College to Bloor street: Sub-District 078 - Toronto (City)  Polling Subdivision no. 98.
+Brock avenue, west side from Dundas to College street: Sub-District 073 - Toronto (City)  Polling Subdivision no. 93.
+Brock Avenue, west side, from Queen Street, to the railway tracks: Sub-District 002 - Toronto (City)  Polling Subdivision no. 21 -
+Brock Avenue, west side, from Shirley to Dundas Street: Sub-District 060 - Toronto (City)  Polling Subdivision no. 80 -
+Brock Avenue, west side, from the railway tracks to Wyndham Street: Sub-District 058 - Toronto (City)  Polling Subdivision no. 78 -
+Brock Avenue, west side, from Wyndham to Shirley Street: Sub-District 059 - Toronto (City)  Polling Subdivision no. 79 -
+Brock crescent: Sub-District 077 - Toronto (City)  Polling Subdivision no. 97.
+Brockton Avenue, both sides: Sub-District 057 - Toronto (City)  Polling Subdivision no. 77 -
+Callender Street, both sides: Sub-District 014 - Toronto (City)  Polling Subdivision no. 33 -
+Campbell avenue, both sides, from Wallance avenue to south end: Sub-District 117 - Toronto (City)  Polling Subdivision no. 144.
+Campbell avenue, east side, from Wallace avenue to north end: Sub-District 120 - Toronto (City)  Polling Subdivision no. 147.
+Campbell avenue, west side, from Wallace avenue to north end: Sub-District 121 - Toronto (City)  Polling Subdivision no. 148.
+Cariboo avenue, both sides: Sub-District 128 - Toronto (City)  Polling Subdivision no. 155.
+Chesley avenue, both sides: Sub-District 076 - Toronto (City)  Polling Subdivision no. 96.
+Clark crescent: Sub-District 126 - Toronto (City)  Polling Subdivision no. 153.
+Claude Avenue, both sides: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Cobourg avenue, both sides: Sub-District 076 - Toronto (City)  Polling Subdivision no. 96.
+Collanie Street, both sides: Sub-District 052 - Toronto (City)  Polling Subdivision no. 72 -
+College street, both sides, from Lansdowne avenue to C.P.R. tracks: Sub-District 084 - Toronto (City)  Polling Subdivision no. 104,
+College street, north side, from Brock avenue to Margueretta street: Sub-District 079 - Toronto (City)  Polling Subdivision no. 99.
+College Street, north side, from Dovercourt Road to Halock Street: Sub-District 065 - Toronto (City)  Polling Subdivision no. 85 -
+College street, north side, from Dufferin street to Brock avenue: Sub-District 074 - Toronto (City)  Polling Subdivision no. 94.
+College Street, north side, from Havelock to Dufferin Street: Sub-District 068 - Toronto (City)  Polling Subdivision no. 88 -
+College street, north side, from Margueretta street to St. Clarens avenue: Sub-District 080 - Toronto (City)  Polling Subdivision no. 100.
+College street, north side, from St. Clarrens to Lansdowne avenue: Sub-District 082 - Toronto (City)  Polling Subdivision no. 102.
+College street, south side, from Brock to Lansdowne avenue: Sub-District 073 - Toronto (City)  Polling Subdivision no. 93.
+College Street, south side, from Dovercourt to Rusholme Road: Sub-District 062 - Toronto (City)  Polling Subdivision no. 82 -
+College Street, south side, from Dufferin Street to Sheridan Avenue: Sub-District 071 - Toronto (City)  Polling Subdivision no. 91 -
+College Street, south side, from Gladstone Avenue to Dufferin Street: Sub-District 064 - Toronto (City)  Polling Subdivision no. 84 -
+College Street, south side, from Rusholme Road to Gladstone Avenue: Sub-District 063 - Toronto (City)  Polling Subdivision no. 83 -
+College Street, south side, from Sheridan to Brock Avenue: Sub-District 072 - Toronto (City)  Polling Subdivision no. 92 -
+Columbus Avenue, both sides: Sub-District 034 - Toronto (City)  Polling Subdivision no. 54 -
+Constance Street, both sides: Sub-District 038 - Toronto (City)  Polling Subdivision no. 58 -
+Coolmine Road, both sides: Sub-District 062 - Toronto (City)  Polling Subdivision no. 82 -
+Cross Street, both sides: Sub-District 052 - Toronto (City)  Polling Subdivision no. 72 -
+Cunningham Avenue, both side: Sub-District 002 - Toronto (City)  Polling Subdivision no. 21 -
+Delaney crescent: Sub-District 058 - Toronto (City)  Polling Subdivision no. 78 -
+Dewson Street, north side, from Dovercourt Road to Havelock Street: Sub-District 066 - Toronto (City)  Polling Subdivision no. 86 -
+Dewson Street, south side, from Dovercourt Road to Havelock Street: Sub-District 065 - Toronto (City)  Polling Subdivision no. 85 -
+Dora avenue, both sides: Sub-District 085 - Toronto (City)  Polling Subdivision No. 106.
+Dovercourt Road west side, from Argyle to Dundas Street: Sub-District 048 - Toronto (City)  Polling Subdivision no. 68 -
+Dovercourt road, west side, from Bloor street to Shanly street: Sub-District 089 - Toronto (City)  Polling Subdivision no. 110.
+Dovercourt Road, west side, from College to Dewson Street: Sub-District 065 - Toronto (City)  Polling Subdivision no. 85 -
+Dovercourt Road, west side, from Dewson to Hepbourne Street: Sub-District 066 - Toronto (City)  Polling Subdivision no. 86 -
+Dovercourt Road, west side, from Dundas to College Street: Sub-District 062 - Toronto (City)  Polling Subdivision no. 82 -
+Dovercourt Road, west side, from Hepbourne to Bloor Street: Sub-District 067 - Toronto (City)  Polling Subdivision no. 87 -
+Dovercourt Road, west side, from Queen to Argyle Street: Sub-District 045 - Toronto (City)  Polling Subdivision no. 65 -
+Dovercourt road, west side, from Shanly to Hallam street: Sub-District 094 - Toronto (City)  Polling Division no. 115.
+Dublin street, both sides: Sub-District 085 - Toronto (City)  Polling Subdivision No. 106.
+Dufferin Street, both sides, from College Street to Lindsay Avenue: Sub-District 068 - Toronto (City)  Polling Subdivision no. 88 -
+Dufferin Street, both sides, from Lindsay Avenue to Bloor Street: Sub-District 070 - Toronto (City)  Polling Subdivision no. 90 -
+Dufferin Street, east side, from Alma to Trafalgar Avenue: Sub-District 053 - Toronto (City)  Polling Subdivision no. 73 -
+Dufferin street, east side, from Bloor to Shanly street: Sub-District 093 - Toronto (City)  Polling Subdivision no. 114.
+Dufferin Street, east side, from Dundas to College Street: Sub-District 064 - Toronto (City)  Polling Subdivision no. 84 -
+Dufferin street, east side, from Hallam street to C.P.R. tracks: Sub-District 101 - Toronto (City)  Polling Subdivision no. 123.
+Dufferin Street, east side, from Queen Street to Alma Avenue: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Dufferin street, east side, from Shanly to Hallam street: Sub-District 097 - Toronto (City)  Polling Subdivision no. 118.
+Dufferin Street, east side, from Stonehouse crescent to Dundas Street: Sub-District 056 - Toronto (City)  Polling Subdivision no. 76 -
+Dufferin Street, east side, from Trafalgar Avenue to Stonehouse crescent: Sub-District 055 - Toronto (City)  Polling Subdivision no. 75 -
+Dufferin Street, west side, from Bank to Dundas Street: Sub-District 056 - Toronto (City)  Polling Subdivision no. 76 -
+Dufferin street, west side, from Bloor street to Wallace avenue: Sub-District 093 - Toronto (City)  Polling Subdivision no. 114.
+Dufferin Street, west side, from Dundas to College Street: Sub-District 071 - Toronto (City)  Polling Subdivision no. 91 -
+Dufferin Street, west side, from Florence to Bank Street: Sub-District 055 - Toronto (City)  Polling Subdivision no. 75 -
+Dufferin street, west side, from Lappin avenue to C.P.R. tracks: Sub-District 101 - Toronto (City)  Polling Subdivision no. 123.
+Dufferin Street, west side, from Queen to Florence Street: Sub-District 053 - Toronto (City)  Polling Subdivision no. 73 -
+Dufferin street, west side, from Wallace to Bappin avenue: Sub-District 097 - Toronto (City)  Polling Subdivision no. 118.
+Dundas street, north and east sides, from Golden avenue to Bloor street: Sub-District 088 - Toronto (City)  Polling Subdivision no. 109.
+Dundas street, north side, from Brock to Lansdowne avenue: Sub-District 073 - Toronto (City)  Polling Subdivision no. 93.
+Dundas street, north side, from C.P.R. tracks to Golden avenue: Sub-District 087 - Toronto (City)  Polling Subdivision no. 108.
+Dundas Street, north side, from Dufferin Street to Sheridan Avenue: Sub-District 071 - Toronto (City)  Polling Subdivision no. 91 -
+Dundas Street north side, from Gladstone Avenue to Dufferin Street: Sub-District 064 - Toronto (City)  Polling Subdivision no. 84 -
+Dundas street, north side, from Lansdowne to St. Helen's avenue: Sub-District 084 - Toronto (City)  Polling Subdivision no. 104,
+Dundas Street, north side, from Rusholme Road to Gladstone Avenue: Sub-District 063 - Toronto (City)  Polling Subdivision no. 83 -
+Dundas Street, north side, from Sheridan Street to Brock Avenue: Sub-District 072 - Toronto (City)  Polling Subdivision no. 92 -
+Dundas street, north side, from Sterling road to C.P.R. tracks: Sub-District 086 - Toronto (City)  Polling Subdivision no. 107.
+Dundas street, north side, from St. Helen's avenue to Sterling road: Sub-District 085 - Toronto (City)  Polling Subdivision No. 106.
+Dundas Street, south side, from Beaconsfield to Gladstone Avenue: Sub-District 052 - Toronto (City)  Polling Subdivision no. 72 -
+Dundas Street, south side from Brock to St. Clarens Avenue: Sub-District 060 - Toronto (City)  Polling Subdivision no. 80 -
+Dundas Street, south side, from C. P. R tracks to Sorauren Avenue: Sub-District 013 - Toronto (City)  Polling Subdivision no. 32 -
+Dundas Street, south side, from Dovercourt Road to Lisgar Street: Sub-District 048 - Toronto (City)  Polling Subdivision no. 68 -
+Dundas Street, south side, from Dufferin Street to Sheridan Avenue: Sub-District 056 - Toronto (City)  Polling Subdivision no. 76 -
+Dundas Street, south side, from Gladstone Avenue to Dufferin Street: Sub-District 054 - Toronto (City)  Polling Subdivision no. 74 -
+Dundas Street, south side, from Lisgar Street to Beaconsfield Avenue: Sub-District 050 - Toronto (City)  Polling Subdivision no. 70 -
+Dundas Street, south side, from Lynd to Roncesvalles Avenue: Sub-District 036 - Toronto (City)  Polling Subdivision no. 56 -
+Dundas Street, south side, from Parkway to Lynd Avenue: Sub-District 035 - Toronto (City)  Polling Subdivision no. 55 -
+Dundas Street, south side, from Sheridan to Brock Avenue: Sub-District 057 - Toronto (City)  Polling Subdivision no. 77 -
+Dundas Street, south side, from Sorauren to Parkway Avenue: Sub-District 034 - Toronto (City)  Polling Subdivision no. 54 -
+Dundas Street, south side, from St. Clarens to Lansdowne Avenue: Sub-District 061 - Toronto (City)  Polling Subdivision no. 81 -
+Dundas Street: Sub-District 062 - Toronto (City)  Polling Subdivision no. 82 -
+Dundas Street, west side, from Roncesvalles Avenue to Bloor Street: Sub-District 042 - Toronto (City)  Polling Subdivision no. 62 -
+Earnbridge Street, both sides: Sub-District 001 - Toronto (City)  Polling Subdivision no. 20 -
+Edith avenue, both sides: Sub-District 128 - Toronto (City)  Polling Subdivision no. 155.
+Edwin avenue, both sides, from Ruskin to Royce avenue: Sub-District 126 - Toronto (City)  Polling Subdivision no. 153.
+Edwin avenue, boths sides, from Royce avenue to C. P. R. tracks: Sub-District 128 - Toronto (City)  Polling Subdivision no. 155.
+Emerson avenue, both sides, from Bloor street to Wallace avenue: Sub-District 110 - Toronto (City)  Polling Subdivision no. 135.
+Emerson avenue, east side, from Armstrong avenue, to Millicent street: Sub-District 106 - Toronto (City)  Polling Subdivision no. 128.
+Emerson avenue, east side, from Lappin avenue to C.P.R. tracks: Sub-District 107 - Toronto (City)  Polling subdivision no. 131.
+Emerson avenue, east side, from Millicent street to Lappin avenue: Sub-District 106 - Toronto (City)  Polling Subdivision no. 129.
+Emerson avenue, east side, from Wallace to Armstrong avenue: Sub-District 104 - Toronto (City)  Polling Subdivision no. 126.
+Emerson avenue, west side, from Wallace avenue to C. P. R. tracks: Sub-District 113 - Toronto (City)  Polling Subdivision no. 139.
+Ernest avenue, both sides: Sub-District 119 - Toronto (City)  Polling Subdivision no. 146.
+Federal Street, both sides: Sub-District 054 - Toronto (City)  Polling Subdivision no. 74 -
+Fermanagh Avenue, both sides: Sub-District 021 - Toronto (City)  Polling Subdivision no. 40 -
+Fern Avenue, both sides, from Macdonell to Sorauren Avenue: Sub-District 012 - Toronto (City)  Polling Subdivision no. 31 -
+Fern Avenue, both sides, from Roncevalles to Sunnyside Avenue: Sub-District 026 - Toronto (City)  Polling Subdivision no. 46 -
+Fern Avenue, both sides, from Sorauren to Roncesvalles Avenue: Sub-District 019 - Toronto (City)  Polling Subdivision no. 38 -
+Fernbank avenue, both sides: Sub-District 095 - Toronto (City)  Polling Subdivision no. 116.
+Fisher Street, both sides: Sub-District 071 - Toronto (City)  Polling Subdivision no. 91 -
+Florence Street, both sides: Sub-District 053 - Toronto (City)  Polling Subdivision no. 73 -
+Frankish Avenue, both sides: Sub-District 057 - Toronto (City)  Polling Subdivision no. 77 -
+Franklin avenue, both sides, from Royce avenue to C. P. R. tracks: Sub-District 127 - Toronto (City)  Polling Subdivision no. 154.
+Franklin avenue, east side, from Ruskin to Royce avenue: Sub-District 125 - Toronto (City)  Polling Subdivision no. 152.
+Franklin avenue, west side, from Ruskin to Royce avenue: Sub-District 126 - Toronto (City)  Polling Subdivision no. 153.
+Fuller Avenue, east side: Sub-District 008 - Toronto (City)  Polling Subdivision no. 27 -
+Fuller Avenue, west side, from Marion Street to Pearson Avenue: Sub-District 010 - Toronto (City)  Polling Subdivision no. 29 -
+Fuller Avenue, west side, from Queen Street to Marion Street: Sub-District 009 - Toronto (City)  Polling Subdivision no. 28 -
+Galley Avenue, both sides, from Macdonell to Sorauren Avenue: Sub-District 011 - Toronto (City)  Polling Subdivision no. 30 -
+Galley Avenue, both sides, from Roncesvalles to Sunnyside Avenue: Sub-District 024 - Toronto (City)  Polling Subdivision no. 44 -
+Galley Avenue, both sides, from Sorauren to Roncesvalles Avenue: Sub-District 017 - Toronto (City)  Polling Subdivision no. 36 -
+Garden Avenue, both sides, from Glendale Avenue to Indian Road: Sub-District 028 - Toronto (City)  Polling Subdivision no. 48 -
+Garden Avenue, both sides, from Indian Road to Keele Street: Sub-District 029 - Toronto (City)  Polling Subdivision no. 49 -
+Garden Avenue, both sides, from Macdonell to Sorauren Avenue: Sub-District 012 - Toronto (City)  Polling Subdivision no. 31 -
+Garden Avenue, both sides, from Roncevalles to Sunnyside Avenue: Sub-District 026 - Toronto (City)  Polling Subdivision no. 46 -
+Garden Avenue, both sides, from Sorauren to Roncesvalles Avenue: Sub-District 018 - Toronto (City)  Polling Subdivision no. 37 -
+Garden Avenue, both sides, from Sunnyside to Glendale Avenue: Sub-District 027 - Toronto (City)  Polling Subdivision no. 47 -
+Geoffrey Street, both sides, from Roncevalles Avenue to Keele Street: Sub-District 032 - Toronto (City)  Polling Subdivision no. 52 -
+Geoffrey Street, north side, from Sorauren to Roncesvalles Avenue: Sub-District 033 - Toronto (City)  Polling Subdivision no. 53 -
+Gladstone avenue, both sides, from Bloor to Shanly street: Sub-District 092 - Toronto (City)  Polling Subdivision no. 113.
+Gladstone Avenue, both sides, from College to Lindsay Avenue: Sub-District 068 - Toronto (City)  Polling Subdivision no. 88 -
+Gladstone avenue, both sides, from Shanly to Hallam street: Sub-District 096 - Toronto (City)  Polling Subdivision no. 117.
+Gladstone Avenue, east side, from Argyle to Cross Street: Sub-District 051 - Toronto (City)  Polling Subdivision no. 71 -
+Gladstone Avenue, east side, from Cross to Dundas Street: Sub-District 052 - Toronto (City)  Polling Subdivision no. 72 -
+Gladstone Avenue, east side, from Dundas to College Street: Sub-District 063 - Toronto (City)  Polling Subdivision no. 83 -
+Gladstone avenue, east side, from Hallam to Van Horne street: Sub-District 100 - Toronto (City)  Polling Subdivision no. 122.
+Gladstone Avenue, east side, from Lindsay Avenue to Bloor Street: Sub-District 069 - Toronto (City)  Polling Subdivision no. 89 -
+Gladstone Avenue, east side, from Queen Street to Argyle Street: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Gladstone Avenue, west side, from Alma to Trafalgar Avenue: Sub-District 053 - Toronto (City)  Polling Subdivision no. 73 -
+Gladstone Avenue, west side, from Dundas to College Street: Sub-District 064 - Toronto (City)  Polling Subdivision no. 84 -
+Gladstone avenue, west side, from Hallam to Van Horne street: Sub-District 101 - Toronto (City)  Polling Subdivision no. 123.
+Gladstone Avenue, west side, from Lindsay Avenue to Bloor Street: Sub-District 070 - Toronto (City)  Polling Subdivision no. 90 -
+Gladstone Avenue, west side, from Queen Street to Alma Avenue: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Gladstone Avenue, west side, from Trafalgar Avenue to Dundas Street: Sub-District 054 - Toronto (City)  Polling Subdivision no. 74 -
+Gladstone square: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Glendale Avenue, both sides, from Garden to Wright Avenue: Sub-District 027 - Toronto (City)  Polling Subdivision no. 47 -
+Glendale Avenue, east side, from Queen Street to Garden Avenue: Sub-District 024 - Toronto (City)  Polling Subdivision no. 44 -
+Glendale Avenue, west side, from Queen Street to Garden Avenue: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Golden avenue, both sides: Sub-District 087 - Toronto (City)  Polling Subdivision no. 108.
+Gordon Street, both sides: Sub-District 055 - Toronto (City)  Polling Subdivision no. 75 -
+Gracton Avenue, both sides: Sub-District 014 - Toronto (City)  Polling Subdivision no. 33 -
+Grenadier Road, both sides, from Roncesvalles Avenue to Keele Street: Sub-District 037 - Toronto (City)  Polling Subdivision no. 57 -
+Grenadier Road, north side, from Lynd to Roncesvalles Avenue: Sub-District 035 - Toronto (City)  Polling Subdivision no. 55 -
+Grenadier Road, north side, from Sorauren to Lynd Avenue: Sub-District 034 - Toronto (City)  Polling Subdivision no. 54 -
+Grenadier Road, south side, from Sorauren to Roncesvalles Avenue: Sub-District 033 - Toronto (City)  Polling Subdivision no. 53 -
+Hallam street, north side, from Bartlett to Gladstone avenue: Sub-District 100 - Toronto (City)  Polling Subdivision no. 122.
+Hallam street, north side, from Gladstone avenue to Dufferin street: Sub-District 101 - Toronto (City)  Polling Subdivision no. 123.
+Hallam street, north side, from Salem to Bartlett avenue: Sub-District 099 - Toronto (City)  Polling Subdivision no. 121.
+Hallam street, south side, from Bartlett to Gladstone avenue: Sub-District 096 - Toronto (City)  Polling Subdivision no. 117.
+Hallam street, south side, from Dovercourt road to Westmoreland avenue: Sub-District 094 - Toronto (City)  Polling Division no. 115.
+Hallam street, south side, from Gladstone avenue to Dufferin street: Sub-District 097 - Toronto (City)  Polling Subdivision no. 118.
+Hallam St., south side, from Westmoreland to Bartlett avenue: Sub-District 095 - Toronto (City)  Polling Subdivision no. 116.
+Harvard Avenue, both sides: Sub-District 015 - Toronto (City)  Polling Subdivision no. 34 -
+Havelock Street, east side, from College to Dewson Street: Sub-District 065 - Toronto (City)  Polling Subdivision no. 85 -
+Havelock Street, east side, from Dewson to Hepbourne Street: Sub-District 066 - Toronto (City)  Polling Subdivision no. 86 -
+Havelock Street, east side, from Hepbourne to Bloor Street: Sub-District 067 - Toronto (City)  Polling Subdivision no. 87 -
+Havelock Street, west side, from College Street to Lindsay Avenue: Sub-District 068 - Toronto (City)  Polling Subdivision no. 88 -
+Havelock Street, west side, from Lindsay Avenue to Bloor Street: Sub-District 069 - Toronto (City)  Polling Subdivision no. 89 -
+Hepbourne Street, north side, from Dovercourt Road to Havelock Street: Sub-District 067 - Toronto (City)  Polling Subdivision no. 87 -
+Hepbourne Street, south side, from Dovercourt Road to Havelock Street: Sub-District 066 - Toronto (City)  Polling Subdivision no. 86 -
+Herman avenue, both sides: Sub-District 088 - Toronto (City)  Polling Subdivision no. 109.
+Hewitt Avenue, north side: Sub-District 041 - Toronto (City)  Polling Subdivision no. 61 -
+Hewitt Avenue, south side: Sub-District 040 - Toronto (City)  Polling Subdivision no. 60 -
+Hickson Street, both sides: Sub-District 060 - Toronto (City)  Polling Subdivision no. 80 -
+High Park Boulevard, both sides: Sub-District 030 - Toronto (City)  Polling Subdivision no. 50 -
+High Park: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Howard Park Avenue, both sides from Dundas Street to Roncesvalles Avenue: Sub-District 036 - Toronto (City)  Polling Subdivision no. 56 -
+Howard Park Avenue, both sides from Roncesvalles avenu to Indian Road: Sub-District 040 - Toronto (City)  Polling Subdivision no. 60 -
+Huge avenue, both sides: Sub-District 127 - Toronto (City)  Polling Subdivision no. 154.
+Indian Grove both sides, from Howard Park Avenue to Bloor Street: Sub-District 044 - Toronto (City)  Polling Subdivision no. 64 -
+Indian Road, both sides, from Geoffrey Street to Grenadier Road: Sub-District 037 - Toronto (City)  Polling Subdivision no. 57 -
+Indian Road, both sides, from Grenadier Road to Constance Street: Sub-District 038 - Toronto (City)  Polling Subdivision no. 58 -
+Indian Road, both sides, from High Park boulevard to Westminster Avenue: Sub-District 031 - Toronto (City)  Polling Subdivision no. 51 -
+Indian Road, both sides, from Lake Shore Road to Garden Avenue: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Indian Road, both sides, from Westminster Avenue to Geoffrey Street: Sub-District 032 - Toronto (City)  Polling Subdivision no. 52 -
+Indian Road, both sides, from Wright Avenue, to High Park Boulevard: Sub-District 030 - Toronto (City)  Polling Subdivision no. 50 -
+Indian Road, east side, from Boustead Avenue to Bloor Street: Sub-District 043 - Toronto (City)  Polling Subdivision no. 63 -
+Indian Road east side, from Garden to Wright Avenue: Sub-District 028 - Toronto (City)  Polling Subdivision no. 48 -
+Indian Road, east side, from Hewitt to Boustead Avenue: Sub-District 041 - Toronto (City)  Polling Subdivision no. 61 -
+Indian Road, east side, from Marmaduke Street to Hewitt Avenue: Sub-District 040 - Toronto (City)  Polling Subdivision no. 60 -
+Indian Road west side, from Garden to Wright Avenue: Sub-District 029 - Toronto (City)  Polling Subdivision no. 49 -
+Indian Road, west side, from Howard Park Avenue to Bloor Street: Sub-District 044 - Toronto (City)  Polling Subdivision no. 64 -
+Indian trail, both sides: Sub-District 044 - Toronto (City)  Polling Subdivision no. 64 -
+Indian valley crescent: Sub-District 044 - Toronto (City)  Polling Subdivision no. 64 -
+Keele Street, both sides, from Garden Avenue to south end: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Keele Street, both sides, from Garden to Wright Avenue: Sub-District 029 - Toronto (City)  Polling Subdivision no. 49 -
+Keele Street, both sides from Geoffrey Street to Grenadier Road: Sub-District 037 - Toronto (City)  Polling Subdivision no. 57 -
+Keele Street, both sides, from Grenadier Road to Constance Street: Sub-District 038 - Toronto (City)  Polling Subdivision no. 58 -
+Keele Street, both sides, from High Park boulevard to Westminster Avenue: Sub-District 031 - Toronto (City)  Polling Subdivision no. 51 -
+Keele Street, both sides, from Howard Park Avenue to Bloor Street: Sub-District 044 - Toronto (City)  Polling Subdivision no. 64 -
+Keele Street, both sides from Westminster Avenue to Geoffrey Street: Sub-District 032 - Toronto (City)  Polling Subdivision no. 52 -
+Keele Street, both sides, from Wright Avenue to High Park boulevard: Sub-District 030 - Toronto (City)  Polling Subdivision no. 50 -
+Landsdowne avenue, east side, from Dundas to College street: Sub-District 073 - Toronto (City)  Polling Subdivision no. 93.
+Landsdowne Avenue, east side, from Queen to Marion Street: Sub-District 004 - Toronto (City)  Polling Subdivision no. 23 -
+Lane in rear of O'Hara Avenue: Sub-District 003 - Toronto (City)  Polling Subdivision no. 22 -
+Langemark Avenue, both sides: Sub-District 063 - Toronto (City)  Polling Subdivision no. 83 -
+Lansdowne avenue, east side, from College to Bloor street: Sub-District 083 - Toronto (City)  Polling Subdivision no. 103.
+Lansdowne Avenue, east side, from Marion Street to the railway tracks: Sub-District 005 - Toronto (City)  Polling Subdivision no. 24 -
+Lansdowne Avenue, east side, from the railway tracks to Dundas Street: Sub-District 061 - Toronto (City)  Polling Subdivision no. 81 -
+Lansdowne avenue, east side, from Wallace avenue to C. P. R. tracks: Sub-District 115 - Toronto (City)  Polling subdivision no. 141.
+Lansdowne Avenue, west side, from Queen Street to the railway tracks: Sub-District 006 - Toronto (City)  Polling Subdivision no. 25 -
+Lansdowne avenue, west side, from railway tracks to Bloor street: Sub-District 084 - Toronto (City)  Polling Subdivision no. 104,
+Lansdowne avenue, west side, from Wallace avenue to C. P. R. tracks: Sub-District 116 - Toronto (City)  Polling Subdivision no. 142.
+Lappin avenue, both sides, from Emerson to St. Clarens avenue: Sub-District 113 - Toronto (City)  Polling Subdivision no. 139.
+Lappin avenue, both sides, from Lansdowne avenue to West end: Sub-District 116 - Toronto (City)  Polling Subdivision no. 143.
+Lappin avenue, both sides, from St. Clarens to Lansdowne avenue: Sub-District 115 - Toronto (City)  Polling subdivision no. 141.
+Lappin avenue, north side, from Dufferin street to Emerson avenue: Sub-District 107 - Toronto (City)  Polling subdivision no. 131.
+Lappin avenue, south side, from Dufferin street to Emerson avenue: Sub-District 107 - Toronto (City)  Polling Subdivision no. 130.
+Lindsay avenue, north side, from Dufferin street, to Brock avenue: Sub-District 075 - Toronto (City)  Polling Subdivision no. 95.
+Lindsay Avenue, north side, from Gladstone Avenue to Dufferin Street: Sub-District 070 - Toronto (City)  Polling Subdivision no. 90 -
+Lindsay Avenue, north side, from Havelock Street to Gladstone Avenue: Sub-District 069 - Toronto (City)  Polling Subdivision no. 89 -
+Lindsay avenue, south side, from Dufferin street to Brock avenue: Sub-District 074 - Toronto (City)  Polling Subdivision no. 94.
+Lindsay Avenue, south side, from Havelock to Dufferin Street: Sub-District 068 - Toronto (City)  Polling Subdivision no. 88 -
+Lisgar place: Sub-District 045 - Toronto (City)  Polling Subdivision no. 65 -
+Lisgar Street, both sides, from Argyle to Dundas Street: Sub-District 049 - Toronto (City)  Polling Subdivision no. 69 -
+Lisgar Street, both sides, from Queen to Argyle Street: Sub-District 045 - Toronto (City)  Polling Subdivision no. 65 -
+Lumbervale avenue: Sub-District 084 - Toronto (City)  Polling Subdivision no. 104,
+Lynd Avenue, east side: Sub-District 035 - Toronto (City)  Polling Subdivision no. 55 -
+Lynd Avenue, west side, from Grenadier Road to Neepawa Avenue: Sub-District 035 - Toronto (City)  Polling Subdivision no. 55 -
+Lynd Avenue, west side, from Neepawa Avenue to Dundas Street: Sub-District 036 - Toronto (City)  Polling Subdivision no. 56 -
+Macauley avenue, both sides: Sub-District 125 - Toronto (City)  Polling Subdivision no. 152.
+Macdonell Avenue, east side, from Marion Street to North end: Sub-District 007 - Toronto (City)  Polling Subdivision no. 26 -
+Macdonell Avenue, east side, from Queen to Marion Street: Sub-District 006 - Toronto (City)  Polling Subdivision no. 25 -
+Macdonell Avenue, west side, from Fern Avenue to northend: Sub-District 013 - Toronto (City)  Polling Subdivision no. 32 -
+Macdonell Avenue, west side, from Garden to Fern Avenue: Sub-District 012 - Toronto (City)  Polling Subdivision no. 31 -
+Macdonell Avenue, west side, from Pearson to Garden Avenue: Sub-District 011 - Toronto (City)  Polling Subdivision no. 30 -
+Macdonell Avenue, west side, from Queen Street to Pearson Avenue: Sub-District 008 - Toronto (City)  Polling Subdivision no. 27 -
+Macklem Avenue, both sides: Sub-District 064 - Toronto (City)  Polling Subdivision no. 84 -
+Maple Grove Avenue, both sides: Sub-District 002 - Toronto (City)  Polling Subdivision no. 21 -
+Margueretta street, both sides from Dundas to College street: Sub-District 073 - Toronto (City)  Polling Subdivision no. 93.
+Margueretta street, east side, from Bloor street to north end: Sub-District 109 - Toronto (City)  Polling Subdivision no. 133.
+Margueretta street, east side, from College to Bloor street: Sub-District 079 - Toronto (City)  Polling Subdivision no. 99.
+Margueretta street, west side, from Bloor street to Wallace avenue: Sub-District 109 - Toronto (City)  Polling Subdivision no. 134.
+Margueretta street, west side, from College to Bloor street: Sub-District 080 - Toronto (City)  Polling Subdivision no. 100.
+Marion Street, both sides, from Fuller to Sorauren Avenue: Sub-District 010 - Toronto (City)  Polling Subdivision no. 29 -
+Marion Street, both sides, from O'Hara to Landsdowne Avenue: Sub-District 004 - Toronto (City)  Polling Subdivision no. 23 -
+Marion Street, both sides, from Roncesvalles to Sunnyside Avenue: Sub-District 023 - Toronto (City)  Polling Subdivision no. 43 -
+Marion Street, both sides, from Sorauren to Roncesvalles Avenue: Sub-District 015 - Toronto (City)  Polling Subdivision no. 34 -
+Marion Street, north side, from Lansdowne to Macdonell Avenue: Sub-District 007 - Toronto (City)  Polling Subdivision no. 26 -
+Marion Street, south side, from Landsdowne to Macdonell Avenue: Sub-District 006 - Toronto (City)  Polling Subdivision no. 25 -
+Marshall Street, both sides: Sub-District 057 - Toronto (City)  Polling Subdivision no. 77 -
+McKenzie crescent, both sides, from Dovercourt Road to Lisgar Street: Sub-District 048 - Toronto (City)  Polling Subdivision no. 68 -
+McKenzie crescent, both sides, from Lisgar Street to Beaconsfield Avenue: Sub-District 050 - Toronto (City)  Polling Subdivision no. 70 -
+Mechanics Avenue, both sides: Sub-District 058 - Toronto (City)  Polling Subdivision no. 78 -
+Merrick Street, both sides: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Middleton Street, both sides: Sub-District 057 - Toronto (City)  Polling Subdivision no. 77 -
+Millicent street, north side: Sub-District 106 - Toronto (City)  Polling Subdivision no. 129.
+Millicent street, south side: Sub-District 106 - Toronto (City)  Polling Subdivision no. 128.
+Morrow avenue, both sides: Sub-District 087 - Toronto (City)  Polling Subdivision no. 108.
+Moutray Street, both sides, from Dufferin Street to Sheridan Avenue: Sub-District 071 - Toronto (City)  Polling Subdivision no. 91 -
+Moutray Street, both sides from Sheridan to Brock Avenue: Sub-District 072 - Toronto (City)  Polling Subdivision no. 92 -
+Muir avenue, both sides: Sub-District 075 - Toronto (City)  Polling Subdivision no. 95.
+Neepawa Avenue, north side: Sub-District 036 - Toronto (City)  Polling Subdivision no. 56 -
+Neepawa Avenue, south side: Sub-District 035 - Toronto (City)  Polling Subdivision no. 55 -
+Newsham street, both sides: Sub-District 076 - Toronto (City)  Polling Subdivision no. 96.
+Noble Street, both sides: Sub-District 001 - Toronto (City)  Polling Subdivision no. 20 -
+Norfolk Street, both sides: Sub-District 060 - Toronto (City)  Polling Subdivision no. 80 -
+Northcote Avenue, both sides, from Argyle to North end: Sub-District 051 - Toronto (City)  Polling Subdivision no. 71 -
+Northcote Avenue, east side, from Queen Street to Argyle Street: Sub-District 046 - Toronto (City)  Polling Subdivision no. 66 -
+Northcote Avenue, west side, from Queen Street to Argyle Street: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Northern place, both sides: Sub-District 061 - Toronto (City)  Polling Subdivision no. 81 -
+north side, from Dovercourt to Rusholme Road: Sub-District 062 - Toronto (City)  Polling Subdivision no. 82 -
+Northumberland street, both sides, from Dovercourt road to west end: Sub-District 089 - Toronto (City)  Polling Subdivision no. 110.
+O'Hara Avenue, both sides: Sub-District 003 - Toronto (City)  Polling Subdivision no. 22 -
+Osler street, both sides, from Royce avenue to C. P. R. tracks: Sub-District 128 - Toronto (City)  Polling Subdivision no. 155.
+Parkman avenue, both sides: Sub-District 125 - Toronto (City)  Polling Subdivision no. 152.
+Parkway Avenue, east side: Sub-District 034 - Toronto (City)  Polling Subdivision no. 54 -
+Parkway Avenue, west side: Sub-District 035 - Toronto (City)  Polling Subdivision no. 55 -
+Parr Street, both sides: Sub-District 064 - Toronto (City)  Polling Subdivision no. 84 -
+Paton road, both sides, from C. T. R. Northern Division tracks, to Symington avenue: Sub-District 117 - Toronto (City)  Polling Subdivision no. 144.
+Paton road, both sides, from Emerson to St. Clarens avenue: Sub-District 111 - Toronto (City)  Polling Subdivision no. 136.
+Patterson Avenue, both sides: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Pauline avenue, both sides: Sub-District 103 - Toronto (City)  Polling Subdivision no. 125.
+Pearson Avenue, both sides, from Roncesvalles to Sunnyside Avenue: Sub-District 023 - Toronto (City)  Polling Subdivision no. 43 -
+Pearson Avenue, both sides, from Sorauren to Roncesvalles Avenue: Sub-District 016 - Toronto (City)  Polling Subdivision no. 35 -
+Pearson Avenue, north side, from Macdonell Street to Sorauren Avenue: Sub-District 010 - Toronto (City)  Polling Subdivision no. 29 -
+Pearson Avenue, south side, from Fuller to Sorauren Avenue: Sub-District 010 - Toronto (City)  Polling Subdivision no. 29 -
+Pearson Avenue, south side, from Macdonell to Fuller Avenue: Sub-District 008 - Toronto (City)  Polling Subdivision no. 27 -
+Peel Avenue, both sides: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Perth avenue, both sides, from Bloor street to south end: Sub-District 086 - Toronto (City)  Polling Subdivision no. 107.
+Perth avenue, both sides, from Bloor street to Wallace avenue: Sub-District 119 - Toronto (City)  Polling Subdivision no. 146.
+Perth avenue, both sides, from Wallace avenue to C. P. R. tracks: Sub-District 124 - Toronto (City)  Polling Subdivision no. 151.
+Queen Street, north side, from Brock to O'Hara Avenue: Sub-District 002 - Toronto (City)  Polling Subdivision no. 21 -
+Queen Street, north side, from Dovercourt Road to Lisgar Street: Sub-District 045 - Toronto (City)  Polling Subdivision no. 65 -
+Queen Street, north side, from Dufferin Street to Brock Avenue: Sub-District 001 - Toronto (City)  Polling Subdivision no. 20 -
+Queen Street, north side, from Fuller to Sorauren Avenue: Sub-District 009 - Toronto (City)  Polling Subdivision no. 28 -
+Queen Street, north side, from Lansdowne to Macdonell Avenue: Sub-District 006 - Toronto (City)  Polling Subdivision no. 25 -
+Queen Street, north side, from Lisgar Street to Northcote Avenue: Sub-District 046 - Toronto (City)  Polling Subdivision no. 66 -
+Queen Street, north side, from Macdonell to Fuller Avenue: Sub-District 008 - Toronto (City)  Polling Subdivision no. 27 -
+Queen Street north side, from Northcote Avenue to Dufferin Street: Sub-District 047 - Toronto (City)  Polling Subdivision no. 67 -
+Queen Street, north side, from O'Hara to Lansdowne Avenue: Sub-District 004 - Toronto (City)  Polling Subdivision no. 23 -
+Queen Street, north side, from Roncesvalles to Sunnyside Avenue: Sub-District 023 - Toronto (City)  Polling Subdivision no. 43 -
+Queen Street, north side, from Sorauren to Roncesvalles Avenue: Sub-District 014 - Toronto (City)  Polling Subdivision no. 33 -
+Queen Street, north side, from Sunnyside Avenue to west end: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Queen Street, west section, both sides: Sub-District 025 - Toronto (City)  Polling Subdivision no. 45 -
+Randolph avenue, both sides: Sub-District 119 - Toronto (City)  Polling Subdivision no. 146.
+Redford Avenue, both sides: Sub-District 043 - Toronto (City)  Polling Subdivision no. 63 -
+Rideau Street, both sides: Sub-District 007 - Toronto (City)  Polling Subdivision no. 26 -
+Ridley Gardens, both sides: Sub-District 028 - Toronto (City)  Polling Subdivision no. 48 -
+Ridout Street, both sides: Sub-District 044 - Toronto (City)  Polling Subdivision no. 64 -
+Ritchie avenue, both sides, from Dundas street to north end: Sub-District 088 - Toronto (City)  Polling Subdivision no. 109.
+Ritchie Avenue, both sides, from Roncesvalles Avenue to Dundas Street: Sub-District 036 - Toronto (City)  Polling Subdivision no. 56 -
+Roncesales Avenue, east side, from Grenadier Road to Neepawa Avenue: Sub-District 035 - Toronto (City)  Polling Subdivision no. 55 -
+Roncesvalles Avenue, east side from Fern to Wright Avenue: Sub-District 019 - Toronto (City)  Polling Subdivision no. 38 -
+Roncesvalles Avenue, east side, from Galley to Garden Avenue: Sub-District 017 - Toronto (City)  Polling Subdivision no. 36 -
+Roncesvalles Avenue, east side, from Garden to Fern Avenue: Sub-District 018 - Toronto (City)  Polling Subdivision no. 37 -
+Roncesvalles Avenue, east side, from Geoffrey Street to Grenadier Road: Sub-District 033 - Toronto (City)  Polling Subdivision no. 53 -
+Roncesvalles Avenue, east side, from Harvard to Pearson Avenue: Sub-District 015 - Toronto (City)  Polling Subdivision no. 34 -
+Roncesvalles Avenue, east side, from Pearson to Galley Avenue: Sub-District 016 - Toronto (City)  Polling Subdivision no. 35 -
+Roncesvalles Avenue, east side, from Queen Street to Harvard Avenue: Sub-District 014 - Toronto (City)  Polling Subdivision no. 33 -
+Roncesvalles Avenue, west side, from Garden to Wright Avenue: Sub-District 026 - Toronto (City)  Polling Subdivision no. 46 -
+Roncesvalles Avenue, west side, from Geoffrey Street to Grenadier Road: Sub-District 037 - Toronto (City)  Polling Subdivision no. 57 -
+Roncesvalles Avenue, west side, from Hewitt Avenue to North end: Sub-District 041 - Toronto (City)  Polling Subdivision no. 61 -
+Roncesvalles Avenue, west side, from High Park Boulevard to Westminster Avenue: Sub-District 031 - Toronto (City)  Polling Subdivision no. 51 -
+Roncesvalles Avenue, west side,from Marmaduke Street to Hewitt Avenue: Sub-District 040 - Toronto (City)  Polling Subdivision no. 60 -
+Roncesvalles Avenue, west side, from Pearson to Garden Avenue: Sub-District 024 - Toronto (City)  Polling Subdivision no. 44 -
+Roncesvalles Avenue, west side, from Queen Street to Pearson Avenue: Sub-District 023 - Toronto (City)  Polling Subdivision no. 43 -
+Roncesvalles Avenue, west side, from Wright Avenue to High Park Boulevard: Sub-District 030 - Toronto (City)  Polling Subdivision no. 50 -
+Roncevalles Avenue east side, from Neepawa Avenue to Dundas Street: Sub-District 036 - Toronto (City)  Polling Subdivision no. 56 -
+Roncevalles Avenue, east side, from Wright to Fermanagh Avenue: Sub-District 021 - Toronto (City)  Polling Subdivision no. 40 -
+Roncevalles Avenue, west side, from Grenadier Road to Constance Street: Sub-District 038 - Toronto (City)  Polling Subdivision no. 58 -
+Roncevalles Avenue west side, from Westminster Avenue to Geoffrey Street: Sub-District 032 - Toronto (City)  Polling Subdivision no. 52 -
+Royce avenue, both sides, from Campbell to Symington avenue: Sub-District 121 - Toronto (City)  Polling Subdivision no. 148.
+Royce avenue, both sides, from C. T. R. Northern Division tracks to Campbell avenue: Sub-District 120 - Toronto (City)  Polling Subdivision no. 147.
+Royce avenue, both sides, from Edwin avenue to West end: Sub-District 128 - Toronto (City)  Polling Subdivision no. 155.
+Royce avenue, both sides, from Emerson avenue, to east end: Sub-District 107 - Toronto (City)  Polling subdivision no. 131.
+Royce avenue, both sides, from Emerson to St. Clarens avenue: Sub-District 113 - Toronto (City)  Polling Subdivision no. 139.
+Royce avenue, both sides, from Lansdowne avenue to C. T. R. Northern Division tracks: Sub-District 116 - Toronto (City)  Polling Subdivision no. 143.
+Royce avenue, both sides, from Perth to Edwin avenue: Sub-District 127 - Toronto (City)  Polling Subdivision no. 154.
+Royce avenue, both sides, from St. Clarens to Lansdowne avenue: Sub-District 115 - Toronto (City)  Polling subdivision no. 141.
+Royce avenue, both sides, from Symington to Perth avenue: Sub-District 123 - Toronto (City)  Polling Subdivision no. 150.
+Rusholme Park Crescent: Sub-District 063 - Toronto (City)  Polling Subdivision no. 83 -
+Rusholme Road, both sides, from College to Dewson Street: Sub-District 065 - Toronto (City)  Polling Subdivision no. 85 -
+Rusholme Road, both sides, from Dewson to Hepbourne Street: Sub-District 066 - Toronto (City)  Polling Subdivision no. 86 -
+Rusholme Road, both sides, from Dundas to College Street: Sub-District 062 - Toronto (City)  Polling Subdivision no. 82 -
+Rusholme Road, both sides, from Hepbourne to Bloor Street: Sub-District 067 - Toronto (City)  Polling Subdivision no. 87 -
+Ruskin avenue, both sides: Sub-District 125 - Toronto (City)  Polling Subdivision no. 152.
+Russett avenue, both sides: Sub-District 102 - Toronto (City)  Polling Subdivision no. 124.
+Salem avenue, both sides, from Bloor to Shanly street: Sub-District 090 - Toronto (City)  Polling Subdivision no. 111.
+Salem avenue, both sides, from Hallam to Van Horne street: Sub-District 099 - Toronto (City)  Polling Subdivision no. 121.
+Salem avenue, both sides, from Shanly to Hallam street: Sub-District 095 - Toronto (City)  Polling Subdivision no. 116.
+Sarnia avenue, both sides: Sub-District 120 - Toronto (City)  Polling Subdivision no. 147.
+Saunders Avenue, both sided: Sub-District 009 - Toronto (City)  Polling Subdivision no. 28 -
+Seaforth Avenue, both sides: Sub-District 002 - Toronto (City)  Polling Subdivision no. 21 -
+Shanly street, north side, from Bartlett to Gladstone avenue: Sub-District 096 - Toronto (City)  Polling Subdivision no. 117.
+Shanly street, north side, from Dovercourt road to Westmoreland ave: Sub-District 094 - Toronto (City)  Polling Division no. 115.
+Shanly street, north side, from Gladstone avenue to Dufferin street: Sub-District 097 - Toronto (City)  Polling Subdivision no. 118.
+Shanly street, north side from Westmoreland to Bartlett avenue: Sub-District 095 - Toronto (City)  Polling Subdivision no. 116.
+Shanly street, south side, from Bartlett to Gladstone avenue: Sub-District 091 - Toronto (City)  Polling Subdivision no. 112.
+Shanly street, south side, from Dovercourt road to Westmoreland avenue: Sub-District 089 - Toronto (City)  Polling Subdivision no. 110.
+Shanly street, south side, from Gladstone avenue to Dufferin street: Sub-District 092 - Toronto (City)  Polling Subdivision no. 113.
+Shanly street, south side, from Westmoreland to Bartlett avenue: Sub-District 090 - Toronto (City)  Polling Subdivision no. 111.
+Sheridan avenue, both sides, from College street to Lindsay avenue: Sub-District 074 - Toronto (City)  Polling Subdivision no. 94.
+Sheridan Avenue, both sides, from Dundas to College Street: Sub-District 072 - Toronto (City)  Polling Subdivision no. 92 -
+Sheridan avenue, both sides, from Lindsay avenue, to north end: Sub-District 075 - Toronto (City)  Polling Subdivision no. 95.
+Sheridan Avenue, east side, from Bank to Dundas Street: Sub-District 056 - Toronto (City)  Polling Subdivision no. 76 -
+Sheridan Avenue, east side, from Florence to Bank Street: Sub-District 055 - Toronto (City)  Polling Subdivision no. 75 -
+Sheridan Avenue, west side, from Florence to Frankish Avenue: Sub-District 055 - Toronto (City)  Polling Subdivision no. 75 -
+Sheridan Avenue, west side from Frankish Avenue to Dundas Street: Sub-District 056 - Toronto (City)  Polling Subdivision no. 76 -
+Shirley Street, both sides, from Brock to St. Clarens Avenue: Sub-District 059 - Toronto (City)  Polling Subdivision no. 79 -
+Shirley Street, both sides, from St. Clarens Avenue to west end: Sub-District 061 - Toronto (City)  Polling Subdivision no. 81 -
+Silver avenue, both sides: Sub-District 087 - Toronto (City)  Polling Subdivision no. 108.
+Sorauren Avenue, east side, from Fern Avenue to north end: Sub-District 013 - Toronto (City)  Polling Subdivision no. 32 -
+Sorauren Avenue, east side, from Garden to Fern Avenue: Sub-District 012 - Toronto (City)  Polling Subdivision no. 31 -
+Sorauren Avenue, east side, from Marion Street to Pearson Avenue: Sub-District 010 - Toronto (City)  Polling Subdivision no. 29 -
+Sorauren Avenue, east side, from Pearson to Garden Avenue: Sub-District 011 - Toronto (City)  Polling Subdivision no. 30 -
+Sorauren Avenue, east side from Queen to Marion Street: Sub-District 009 - Toronto (City)  Polling Subdivision no. 28 -
+Sorauren Avenue, west side from Fern to Wright Avenue: Sub-District 019 - Toronto (City)  Polling Subdivision no. 38 -
+Sorauren Avenue, west side, from Galley to Garden Avenue: Sub-District 017 - Toronto (City)  Polling Subdivision no. 36 -
+Sorauren Avenue, west side, from Garden to Fern Avenue: Sub-District 018 - Toronto (City)  Polling Subdivision no. 37 -
+Sorauren Avenue, west side, from Geoffrey Street to Grenadier Road: Sub-District 033 - Toronto (City)  Polling Subdivision no. 53 -
+Sorauren Avenue, west side, from Grenadier Road to Dundas Street: Sub-District 034 - Toronto (City)  Polling Subdivision no. 54 -
+Sorauren Avenue, west side, from Marion Street to Pearson Avenue: Sub-District 015 - Toronto (City)  Polling Subdivision no. 34 -
+Sorauren Avenue, west side, from Pearson to Galley Avenue: Sub-District 016 - Toronto (City)  Polling Subdivision no. 35 -
+Sorauren Avenue, west side from Queen to Marion Street: Sub-District 014 - Toronto (City)  Polling Subdivision no. 33 -
+Sorauren Avenue, west side, from Wright to Fermanagh Avenue: Sub-District 021 - Toronto (City)  Polling Subdivision no. 40 -
+Southview avenue, both sides: Sub-District 095 - Toronto (City)  Polling Subdivision no. 116.
+St-Ann's Road, both sides, from Dovercourt to Rusholme Road: Sub-District 062 - Toronto (City)  Polling Subdivision no. 82 -
+St. Ann's Road, both sides, from Rusholme Road to west end: Sub-District 063 - Toronto (City)  Polling Subdivision no. 83 -
+St. Clarens avenue both sides, from Bloor street to Wallace avenue: Sub-District 111 - Toronto (City)  Polling Subdivision no. 136.
+St. Clarens avenue, both sides from Dundas to College treet: Sub-District 073 - Toronto (City)  Polling Subdivision no. 93.
+St. Clarens avenue, both sides, from Wallace avenue to C. P. R. tracks: Sub-District 114 - Toronto (City)  Polling Subdivision no. 140.
+St. Clarens avenue, east side, from College to Bloor street: Sub-District 081 - Toronto (City)  Polling Subdivision no. 101.
+St. Clarens Avenue, east side, from railway tracks to Wyndham Street: Sub-District 058 - Toronto (City)  Polling Subdivision no. 78 -
+St. Clarens Avenue, east side from Shirley to Dundas Street: Sub-District 060 - Toronto (City)  Polling Subdivision no. 80 -
+St. Clarens Avenue, east side, from Wyndham to Shirley Street: Sub-District 059 - Toronto (City)  Polling Subdivision no. 79 -
+St. Clarens avenue, west side, from College to Bloor street: Sub-District 082 - Toronto (City)  Polling Subdivision no. 102.
+St. Clarens Avenue, west side, from Dundas Street to south end: Sub-District 061 - Toronto (City)  Polling Subdivision no. 81 -
+Sterling road, east side: Sub-District 085 - Toronto (City)  Polling Subdivision No. 106.
+Sterling road, west side: Sub-District 086 - Toronto (City)  Polling Subdivision no. 107.
+St. Helen's avenue, east side: Sub-District 085 - Toronto (City)  Polling Subdivision no. 105.
+St. Helen's Avenue, west side: Sub-District 085 - Toronto (City)  Polling Subdivision No. 106.
+Stonehouse crescent, both sides: Sub-District 054 - Toronto (City)  Polling Subdivision no. 74 -
+Strickland Avenue, both sides: Sub-District 001 - Toronto (City)  Polling Subdivision no. 20 -
+Sunnyside Avenue, both sides, from Geoffrey Street to Grenadier Road: Sub-District 037 - Toronto (City)  Polling Subdivision no. 57 -
+Sunnyside Avenue, both sides, from Grenadier Road to Constance Street: Sub-District 038 - Toronto (City)  Polling Subdivision no. 58 -
+Sunnyside Avenue, both sides, from High Park boulevard to Westminster Avenue: Sub-District 031 - Toronto (City)  Polling Subdivision no. 51 -
+Sunnyside Avenue, both sides, from Marmaduke Street to Howard Park Avenue: Sub-District 040 - Toronto (City)  Polling Subdivision no. 60 -
+Sunnyside Avenue, both sides, from Westminster Avenue to Geoffrey Street: Sub-District 032 - Toronto (City)  Polling Subdivision no. 52 -
+Sunnyside Avenue, both sides, from Wright Avenue to High Park Boulevard: Sub-District 030 - Toronto (City)  Polling Subdivision no. 50 -
+Sunnyside Avenue, east side, from Garden to Wright Avenue: Sub-District 026 - Toronto (City)  Polling Subdivision no. 46 -
+Sunnyside Avenue, east side, from Pearson to Garden Avenue: Sub-District 024 - Toronto (City)  Polling Subdivision no. 44 -
+Sunnyside Avenue, east side, from Queen Street to Pearson Avenue: Sub-District 023 - Toronto (City)  Polling Subdivision no. 43 -
+Sunnyside Avenue, west side, from Garden to Wright Avenue: Sub-District 027 - Toronto (City)  Polling Subdivision no. 47 -
+Sunnyside Avenue, west side, from Queen Street to Garden Avenue: Sub-District 024 - Toronto (City)  Polling Subdivision no. 44 -
+Sylvan Avenue, both sides, from Gladstone Avenue to Dufferin Street: Sub-District 070 - Toronto (City)  Polling Subdivision no. 90 -
+Sylvan Avenue, both sides, from Havelock Street to Gladstone Avenue: Sub-District 069 - Toronto (City)  Polling Subdivision no. 89 -
+Symington avenue, both sides, from Bloor street to Wallace avenue: Sub-District 118 - Toronto (City)  Polling Subdivision no. 145.
+Symington avenue, east side, from Wallace avenue to C. P. R. tracks: Sub-District 122 - Toronto (City)  Polling Subdivision no. 149.
+Symington avenue, west side, from Wallace avenue to C. P. R. tracks: Sub-District 123 - Toronto (City)  Polling Subdivision no. 150.
+Tennyson avenue, both sides: Sub-District 120 - Toronto (City)  Polling Subdivision no. 147.
+Thorold Street, both sides: Sub-District 043 - Toronto (City)  Polling Subdivision no. 63 -
+Trafalgar Avenue, both sides: Sub-District 054 - Toronto (City)  Polling Subdivision no. 74 -
+Triller Avenue, both sides, from Queen Street, to Harvard Avenue: Sub-District 014 - Toronto (City)  Polling Subdivision no. 33 -
+Van Horne street, north side, from Bartlett avenue to Dufferin street: Sub-District 101 - Toronto (City)  Polling Subdivision no. 123.
+Van Horne street, south side, from Gladstone avenue to Dufferin street: Sub-District 101 - Toronto (City)  Polling Subdivision no. 123.
+Van Horne street, south side, from Salem to Bartlett avenue: Sub-District 099 - Toronto (City)  Polling Subdivision no. 121.
+Van Horne St. south side, from Bartlett to Gladstone avenue: Sub-District 100 - Toronto (City)  Polling Subdivision no. 122.
+Virtue Street, both sides: Sub-District 009 - Toronto (City)  Polling Subdivision no. 28 -
+Wabash Avenue, Wright Avenue, both sides, from Macdonell to Sorauren Avenue: Sub-District 013 - Toronto (City)  Polling Subdivision no. 32 -
+Wallace avenue, both sides, from Campbell to Symington avenue: Sub-District 121 - Toronto (City)  Polling Subdivision no. 148.
+Wallace avenue, both sides, from C. T. R. Northern Division tracks to Campbell avenue: Sub-District 120 - Toronto (City)  Polling Subdivision no. 147.
+Wallace avenue, both sides, from Dufferin street to Emerson avenue: Sub-District 104 - Toronto (City)  Polling Subdivision no. 126.
+Wallace avenue, both sides, from Emerson to St. Clarens avenue: Sub-District 113 - Toronto (City)  Polling Subdivision no. 139.
+Wallace avenue, both sides, from Lansdowne avenue to C. T. R. Northern division tracks: Sub-District 116 - Toronto (City)  Polling Subdivision no. 143.
+Wallace avenue, both sides, from Perth avenue to west end: Sub-District 125 - Toronto (City)  Polling Subdivision no. 152.
+Wallace avenue, both sides, from St. Clarens to Lansdowne avenue: Sub-District 115 - Toronto (City)  Polling subdivision no. 141.
+Wallace avenue, both sides, from Symington to Perth avenue: Sub-District 123 - Toronto (City)  Polling Subdivision no. 150.
+Ward street, both sides: Sub-District 116 - Toronto (City)  Polling Subdivision no. 143.
+Waterloo Avenue, both sides: Sub-District 053 - Toronto (City)  Polling Subdivision no. 73 -
+West Lodge Avenue, east side, from Queen Street to north end: Sub-District 004 - Toronto (City)  Polling Subdivision no. 23 -
+west Lodge Avenue, west side, from Marion Street to North end: Sub-District 005 - Toronto (City)  Polling Subdivision no. 24 -
+West Lodge Avenue, west side, from Queen to Marion Street: Sub-District 004 - Toronto (City)  Polling Subdivision no. 23 -
+Westminster Avenue, both sides, from Roncesvalles Avenue to Keele Street: Sub-District 031 - Toronto (City)  Polling Subdivision no. 51 -
+Westmoreland ave. both sides, from Bloor to Shanly street: Sub-District 089 - Toronto (City)  Polling Subdivision no. 110.
+Westmoreland avenue, both sides, from Shanly to Hallam street: Sub-District 094 - Toronto (City)  Polling Division no. 115.
+Wright Avenue, both sides, from Sorauren to Roncesvalles Avenue: Sub-District 020 - Toronto (City)  Polling Subdivision no. 39 -
+Wright Avenue, north side, from Roncesvalles Avenue to Keele Street: Sub-District 030 - Toronto (City)  Polling Subdivision no. 50 -
+Wright Avenue, south side, from Glendale Avenue to Indian Road: Sub-District 028 - Toronto (City)  Polling Subdivision no. 48 -
+Wright Avenue, south side, from Indian Road to Keele Street: Sub-District 029 - Toronto (City)  Polling Subdivision no. 49 -
+Wright Avenue, south side, from Roncesvalles to Sunnyside Avenue: Sub-District 026 - Toronto (City)  Polling Subdivision no. 46 -
+Wright Avenue, south side, from Sunnyside to Glendale Avenue: Sub-District 027 - Toronto (City)  Polling Subdivision no. 47 -
+Wyndham Street, both sides: Sub-District 059 - Toronto (City)  Polling Subdivision no. 79 -

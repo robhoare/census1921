@@ -8,7 +8,8 @@ $files = array(
 'Toronto Centre' => 'toronto-centre.5',
 'York East' => 'york-east.5',
 'York West' => 'york-west.5',
-'York South' => 'york-south.5'
+'York South' => 'york-south.5',
+'Parkdale' => 'parkdale.5'
 );
 
 foreach ($files as $r => $f) {
